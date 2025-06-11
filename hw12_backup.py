@@ -24,8 +24,8 @@ RESERVE_DATE = "2025/06/18"   # 要預約的日期 (格式: YYYY/MM/DD)
 RESERVE_TIME = "19~21"        # 要預約的時段 (格式: HH~HH)
 
 # 預約者資訊
-STUDENT_ID = "411012046"      # 學號
-PASSWORD = "42689742ASDfgh"   # 密碼
+STUDENT_ID = "411XXXXXX"      # 學號
+PASSWORD = "XXXXXXXXX"   # 密碼
 REASON = "0"                  # 申請理由
 
 def wait_until_time(target_hour, target_minute):
